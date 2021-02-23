@@ -1,0 +1,7 @@
+C:\Users\irish\My documents\C#\HomeWork_4(string_array)\bin\Debug\HomeWork_4(string_array).exe.config
+C:\Users\irish\My documents\C#\HomeWork_4(string_array)\bin\Debug\HomeWork_4(string_array).exe
+C:\Users\irish\My documents\C#\HomeWork_4(string_array)\bin\Debug\HomeWork_4(string_array).pdb
+C:\Users\irish\My documents\C#\HomeWork_4(string_array)\obj\Debug\HomeWork_4(string_array).csproj.CoreCompileInputs.cache
+C:\Users\irish\My documents\C#\HomeWork_4(string_array)\obj\Debug\HomeWork_4(string_array).exe
+C:\Users\irish\My documents\C#\HomeWork_4(string_array)\obj\Debug\HomeWork_4(string_array).pdb
+C:\Users\irish\My documents\C#\HomeWork_4(string_array)\obj\Debug\HomeWork_4(string_array).csprojAssemblyReference.cache
